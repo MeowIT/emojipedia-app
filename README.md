@@ -1,2 +1,4 @@
 # emojipedia-app
-Created with CodeSandbox
+A small app shoing an emoji legend
+
+Soon to have API calls
